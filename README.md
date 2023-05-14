@@ -1,13 +1,13 @@
-href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
 ACA VA INFO GENERAL
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on my GitHub profile
 - 🌱 I’m currently learning 
 - 🤔 I’m looking for a good project
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
+- 📫 How to reach me: [mariapaularojas1712@gmail.com](mailto:mariapaularojas1712@gmail.com)
 
 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
@@ -20,7 +20,7 @@ ACA VA INFO GENERAL
  
 ## 👨‍💻 &nbsp;Talking to Computers Using :
 
-### &nbsp;- Languages
+### &nbsp;- Languages, Libraries, Frameworks, Tools  
 
 <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
 
