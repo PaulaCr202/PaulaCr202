@@ -1,85 +1,36 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+<h3 title="hehehe"> Hey 👋, I'm Paula!</h3>
 
-ACA VA INFO GENERAL
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on my GitHub profile
-- 🌱 I’m currently learning 
-- 🤔 I’m looking for a good project
-- 📫 How to reach me: [mariapaularojas1712@gmail.com](mailto:mariapaularojas1712@gmail.com)
-
-
-## Let's Connect 
-
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourab-maity-4551061b8/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/maity_sourab)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13909768/sourab-maity)&nbsp;
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/sourabmaity)&nbsp;  
-
-<img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
- <br/>
- 
-## 👨‍💻 &nbsp;Talking to Computers Using :
-
-### &nbsp;- Languages, Libraries, Frameworks, Tools  
-
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = '(https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png)' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
-
-![Profile views](https://gpvc.arturio.dev/sourabmaity)
-
-![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
-
-## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-| ![](https://github-readme-stats.vercel.app/api?username=sourabmaity&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabmaity) |
-| --- | --- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabmaity) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
-
-![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=sourabmaity&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
-
-
-## Watch my contribution graph being eaten by a snake🐍
-
-<p align="center">
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<details>
-<summary></summary>
-
-[![Tap to Reload](https://metrics.lecoq.io/sourabmaity?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/sourabmaity)
-
-</details>
-
-## My Github Activity ⚡
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/styler/issues/2) in [sourab/styler](https://github.com/r)
-
-<!--END_SECTION:activity-->
-
-## My Trending Repos 💻
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=Vegetable-Detection_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/Vegetable-Detection_App)
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/sourabmaity?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## Spotify Playing 🎧
+<a href="https://www.linkedin.com/in/zamranxd/">
+  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/zamranxd/">
+  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ZamranxD">
+  <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
 
 
 
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
+<br />
+<br />
+
+A **Computer Science Student** 🚀 from Colombia.
 
 
-------
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**About Me!**
+
+- 👨🏽‍💻 I’m currently working as xxxxxx.
+- 🌱 I’m currently exploring Python. 
+- 🤔 My interests are xxxxxx
+- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [mariapaularojas1712@gmail.com](mailto:mariapaularojas1712@gmail.com).
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
 
 
-Credit: [Sourab Maity](https://github.com/sourabmaity)
-Last Edited on: 02/07/2022
+**Languages and Tools:**  
