@@ -18,7 +18,7 @@ A **Computer Science Student** 🚀 from Colombia.
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [mariapaularojas1712@gmail.com](mailto:mariapaularojas1712@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae] to get more info.
 
 
 <br>
