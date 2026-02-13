@@ -15,11 +15,6 @@ A **asd** 🚀 from Colombia.
 - 👨🏽‍💻 I’m currently working as a data analyst.
 - 🌱 I’m currently exploring Python. 
 - 🤔 My interests are cybersecurity and data analysis
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [mariapaularojas1712@gmail.com](mailto:mariapaularojas1712@gmail.com).
-- 📝 See my [Curriculum Vitae] to get more info.
-
 
 <br>
 <!-- Connect with me -->
